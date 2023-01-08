@@ -1,0 +1,4 @@
+﻿  task2.cpp
+C:\Users\vital\source\repos\ConsoleApplication1\task2\task2.cpp(18,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vital\source\repos\ConsoleApplication1\task2\task2.cpp(18,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  task2.vcxproj -> C:\Users\vital\source\repos\ConsoleApplication1\x64\Debug\task2.exe
